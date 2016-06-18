@@ -1,7 +1,6 @@
 name: Default
 slug: default
 author: Chris Kempson (http://chriskempson.com)
-supports: [dark, light]
 base00: 181818
 base01: 282828
 base02: 383838
